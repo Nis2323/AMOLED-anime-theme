@@ -237,8 +237,8 @@
   "background": {
             "url": "https://raw.githubusercontent.com/Nis2323/AMOLED-anime-theme/main/c701d51b3758b38a9717f5dea13a263c.jpg",
     
-    "blur": 0.5,
-    "alpha": 0.25,
+    "blur": 0.8,
+    "alpha": 0.55,
     "size": "cover",
     "position": "center"
   },
